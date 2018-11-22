@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "11e6aa7e-c291-43c1-879f-e32e6b103333",
+            "Value": {
+                "id": "a561e97f-361d-4bd6-b530-255fcc9473c5",
+                "resourcePath": "objects\\objDrinkWaterCanteen\\objDrinkWaterCanteen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1514d28b-8bfe-45db-b353-815133826cd1",
             "Value": {
                 "id": "ca001b9a-8321-4de3-a45d-554b054a45c5",
@@ -187,6 +195,14 @@
             "Value": {
                 "id": "1116b140-f360-409b-ae9a-81904574aa6e",
                 "resourcePath": "objects\\objRaspberryTree1\\objRaspberryTree1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "18b3d820-f1c5-4d1a-87a0-ec54edaf6683",
+            "Value": {
+                "id": "6a63bac8-427f-4296-b6e7-06d12360b1d7",
+                "resourcePath": "objects\\objFoodSurstromming\\objFoodSurstromming.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -231,6 +247,14 @@
             }
         },
         {
+            "Key": "1dd585da-f528-4e4b-9a82-9a0c26009760",
+            "Value": {
+                "id": "0b8f8281-b066-4fd7-85cf-6ead6b9d6b05",
+                "resourcePath": "objects\\objDrinkRussianAtomu\\objDrinkRussianAtomu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1e9987ee-239b-48bd-b0b3-7921a7e7a824",
             "Value": {
                 "id": "3a5ceed3-c37a-48da-a783-3df6419158de",
@@ -243,6 +267,14 @@
             "Value": {
                 "id": "42eead36-7760-49fe-94d3-04e7213496a9",
                 "resourcePath": "objects\\objShortWallConnector\\objShortWallConnector.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "20dd05e9-7430-4ff3-abcd-d0456de8864b",
+            "Value": {
+                "id": "a8c768d2-53af-4e2e-a94a-d666446071fc",
+                "resourcePath": "objects\\objDrinkChechenMead\\objDrinkChechenMead.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -484,6 +516,14 @@
                 "id": "90581c7c-b9b5-48ec-9a8d-0eb8c056fc86",
                 "resourcePath": "sprites\\sprLvlWall1HShort\\sprLvlWall1HShort.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "441c423e-980b-4a2a-8c15-33cb7823ad28",
+            "Value": {
+                "id": "6178902b-fc9d-4cff-bb05-164655b2eb33",
+                "resourcePath": "objects\\objDrinkAligatorStamina1\\objDrinkAligatorStamina1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1319,6 +1359,14 @@
             }
         },
         {
+            "Key": "b6cab116-558a-47af-a7fb-cd4f5725f1da",
+            "Value": {
+                "id": "167db9a5-4887-4acb-bd15-aa735f634d24",
+                "resourcePath": "objects\\objFoodCzechMRE1\\objFoodCzechMRE1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b6d32937-c655-44bb-ac83-3e5af40c7ced",
             "Value": {
                 "id": "9ba7e651-a796-4910-966e-7c5840b6a431",
@@ -1503,6 +1551,14 @@
             }
         },
         {
+            "Key": "c6ec6d74-8341-4524-81b3-9afd4bee7e76",
+            "Value": {
+                "id": "76a426f1-f2bc-4c47-a816-1fb341512b02",
+                "resourcePath": "objects\\objFoodCannedSausage1\\objFoodCannedSausage1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c877b8d6-636b-4a8a-a7de-7e0268ed4248",
             "Value": {
                 "id": "89f935bb-f83e-4446-b722-51183cf3daec",
@@ -1540,6 +1596,14 @@
                 "id": "dd4349e8-fc80-4f86-8a17-5b69866801c5",
                 "resourcePath": "views\\cfa52008-cfed-4031-b06d-f2d5a35b397a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d17b028b-9505-4eaf-b4f5-49e8603718fd",
+            "Value": {
+                "id": "b1782c74-ef63-480a-989c-b541fa5378f8",
+                "resourcePath": "objects\\objDrinkSovietRedBrew\\objDrinkSovietRedBrew.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1647,6 +1711,14 @@
             }
         },
         {
+            "Key": "d969f87e-2494-4951-bf6d-93bb4da61d02",
+            "Value": {
+                "id": "be954c0c-8485-470b-a7f1-2a6bf0585416",
+                "resourcePath": "objects\\objDrinkChechnyaDelis\\objDrinkChechnyaDelis.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "da792530-13a2-44ca-aae0-26abffdeeb83",
             "Value": {
                 "id": "eac18f87-e0e3-40f1-8ad3-51971c404b5f",
@@ -1719,6 +1791,14 @@
             }
         },
         {
+            "Key": "e7e26bc6-bdf8-40f3-8966-3a1866b40a1d",
+            "Value": {
+                "id": "e6e39906-b07e-44e7-8d2d-afca0d07ff83",
+                "resourcePath": "objects\\objDrinkUSSRVodka1\\objDrinkUSSRVodka1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e7e65749-dba6-4cbf-b151-56e0d1acd39d",
             "Value": {
                 "id": "12dbb077-b163-49bd-a0d1-377f91c55636",
@@ -1772,6 +1852,14 @@
                 "id": "d9c50dcd-e944-4c4e-8c8a-536eaa3894a5",
                 "resourcePath": "views\\eebf5796-dde6-46ca-ad74-7cf38c7ebff8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ef9023a9-5216-43f9-9742-91a2735cc271",
+            "Value": {
+                "id": "24577afa-e967-45be-af87-ff5bd6739f81",
+                "resourcePath": "objects\\objFelgirsCoffeeCan1\\objFelgirsCoffeeCan1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
