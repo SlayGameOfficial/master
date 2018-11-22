@@ -1,0 +1,3 @@
+scrPlayerMove();
+scrPlayerLegsRot();
+scrPlayerAnimateLegs();
